@@ -1,3 +1,0 @@
-exe_old = C:\MMD\MikuMikuDance_v932x64\MikuMikuDance.exe
-exe_new = C:\MMD\MikuMikuDance_v932x64\MikuMikuDance.exe
-output_name = _out
