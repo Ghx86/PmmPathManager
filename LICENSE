@@ -1,21 +1,19 @@
-MIT License
+Original License
 
 Copyright (c) 2025 派戸
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本ソフトウェアの利用者は、以下の項目に同意したものとみなす。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. 本ソフトウェアの著作権は制作者に帰属する。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. 本ソフトウェアは、規約の範囲内であれば、個人、法人、商用、非商用問わず利用することができる。
+また、制作者名の表示および記載を任意とする。
+
+3. 本ソフトウェアは、実行ファイルの再配布を禁止する。
+ただし、本ソフトウェアによって作成または編集された設定ファイル、データファイルは該当しない。
+
+4. 本ソフトウェアの逆アセンブル、デコンパイル、その他解析行為を禁止する。
+
+5. 本ソフトウェアがバイナリ処理に使用したライブラリのソースコードを、MITライセンスに基づき利用できる。
+
+6. 本ソフトウェアに関して生じたいかなる不具合、障害、損害その他一切の問題について、制作者は一切の責任を負わない。
